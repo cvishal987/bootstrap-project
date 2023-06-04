@@ -1,0 +1,31 @@
+.teat{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0,0, .6)), url('/image7.jpeg');
+  
+
+    background-repeat: no-repeat, no-repeat;
+    height: 200px;
+    width: 1320px;
+    margin-left: 80px;
+}
+.con{
+    padding:50px;
+}
+body
+{
+    overflow-x: hidden;
+}
+p2{
+     font-size: 16px;
+     font-weight:300;
+     padding:20px;
+
+
+}
+.form{
+    background-color: #fff;
+    padding:50px;
+    margin-top: 50px;
+    margin-left:-70px;
+    width:300px;
+box-shadow: 2px 2px 2px 2px grey;
+}
